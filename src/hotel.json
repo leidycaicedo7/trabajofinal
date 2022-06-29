@@ -1,0 +1,28 @@
+[
+    {
+        "id":"1",
+        "clase":"vip",
+        "nombre":"brayan andara",
+        " hospedaje":"30",
+        "habitacion":"suite real",
+        "incluye":"buffet y barra libre"
+        
+    },
+    
+    {
+        "id":"3",
+        "clase":"media",
+        "nombre":"jose linares",
+        "hospedaje":"20",
+        "habitacion":"430",
+        "incluye":"almuerzo"
+    },
+    {
+        "id":"4",
+        "clase":"economica",
+        "nombre":"sofia caicedo",
+        "hospedaje":"30",
+        "habitacion":"220",
+        "incluye":"no incluye "
+    }
+]
